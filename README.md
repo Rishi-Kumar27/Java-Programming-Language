@@ -27,9 +27,8 @@ It’s a personal space to track my progress, understand core concepts, and buil
 
 ## 🛠 Tools & Technologies
 - **Language**: Java
-- **IDE**: IntelliJ IDEA / Eclipse / VS Code (whichever you use)
+- **IDE**: VS Code 
 - **Version Control**: Git & GitHub
 
 ---
 
-## 📂 Structure
